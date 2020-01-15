@@ -1,0 +1,23 @@
+@media only screen and (min-width: 649px) {
+
+    header img {
+        width: 100px;
+        height: 100px;
+    }
+    header h2 {
+        padding: 10px;
+        text-align: center;
+     }
+    
+     .container .box h2 {
+         font-size: 90px;
+         text-align: center;
+         margin: 5px auto;
+     }
+
+     #fitRight {
+         font-size: 60px;
+         padding: 0;
+     }
+
+ } /* end of media query */

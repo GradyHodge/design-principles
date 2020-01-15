@@ -1,0 +1,20 @@
+@media only screen and (min-width: 760px) {
+    body {
+        max-width: 700px;
+    }
+
+    .box {
+        box-shadow: 15px 15px 15px rgb(81, 102, 108);
+    }
+
+
+
+
+
+
+
+
+
+
+
+}
